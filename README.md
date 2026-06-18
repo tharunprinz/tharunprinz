@@ -121,14 +121,14 @@
 ### GitPen AI
 > An AI-powered repository analyzer and architectural assistant.
 
-** https://gitpen-ai.vercel.app/
+ https://gitpen-ai.vercel.app/
 
 ---
 
 ### Snack Box
 > Smart food ordering platform with billing, QR payments, and admin analytics.
 
- ** https://snacks-box.vercel.app/
+ https://snacks-box.vercel.app/
 
 ## GitHub Stats
 
