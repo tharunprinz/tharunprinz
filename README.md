@@ -117,7 +117,7 @@ YouTube
 
 | Project | Description | Demo |
 |----------|-------------|------|
-| 🤖 **GitPen AI** | An AI-powered repository analyzer and architectural assistant. | [Live Demo](https:gitpen-ai.vercel.app) |
+| 🤖 **GitPen AI** | An AI-powered repository analyzer and architectural assistant. | [Live Demo](https:gitpen-ai.vercel.app/) |
 | ⚡ **Snack Box** | Multi-purpose AI assistant built with modern web technologies. | [Live Demo](https://snacks-box.vercel.app/) |
 
 ## GitHub Stats
