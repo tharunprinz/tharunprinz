@@ -13,15 +13,16 @@
 
 
 
-Passionate about **Software Engineering, Full-Stack Development, Cybersecurity, and AI**
 
-Currently building **AI-powered applications and security-focused solutions**
 
-Learning **Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing**
+*Passionate about building impactful software through Full-Stack Development, Cybersecurity, and Artificial Intelligence.*  
+*Currently developing AI-powered applications and security-focused solutions while exploring modern software architectures.*  
+*Learning Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing to build scalable and secure systems.*
 
-Hall of Fame Recognition from **Blackbaud (Bugcrowd)** and **Inflectra**
+🏆 Recognized in the Hall of Fame by **Blackbaud (Bugcrowd)** and **Inflectra** for responsible vulnerability disclosure.
 
-Microsoft Certified **Azure Fundamentals (AZ-900)**
+☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
+
 
 
 - Full-Stack Development
