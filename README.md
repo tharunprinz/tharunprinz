@@ -90,65 +90,6 @@
 
 ---
 
-## 🏆 Certifications & Achievements
-
-🥇 1st Prize – Application Development (National Science Day)
-
-☁️ Microsoft Azure Fundamentals (AZ-900)
-
-🛡️ Cisco Endpoint Security Certification
-
-🤖 Salesforce Trailhead Agentblazer Champion & Innovator
-
-🏅 Blackbaud VDP Hall of Fame (Bugcrowd)
-
-🏅 Inflectra Responsible Disclosure Hall of Fame
-
-🎯 Googleathon Hackathon Participant
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 GITPEN-AI
-AI-powered GitHub Repository Analyzer that provides:
-- Security Analysis
-- Code Quality Scoring
-- Architecture Insights
-- Performance Recommendations
-- AI-Powered Repository Chat
-
-**Tech:** React, Node.js, MongoDB, Gemini AI, OpenRouter
-
-🔗 https://github.com/tharunprinz/GITPEN-AI
-
----
-
-### 🍔 Snacks-Box
-Modern food ordering platform featuring:
-- Menu Management
-- Shopping Cart
-- QR Payments
-- Billing System
-- Sales Analytics Dashboard
-
-**Tech:** React, Vite, Node.js, MongoDB
-
-🔗 https://github.com/tharunprinz/Snacks-Box
-
----
-
-### 📈 FinGPT-21 AI
-AI-powered financial intelligence platform that provides:
-- Real-Time Stock Analysis
-- Technical Indicators
-- Financial Data Visualization
-- AI Financial Chatbot
-
-**Tech:** Python, Streamlit, OpenAI, Gemini, Plotly
-
-🔗 https://github.com/tharunprinz/FinGPT-21
-
 ---
 
 ## 📊 GitHub Stats
@@ -179,10 +120,17 @@ AI-powered financial intelligence platform that provides:
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
 
 ---
