@@ -90,7 +90,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -124,7 +124,5 @@
   </picture>
 </p>
 
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 
