@@ -86,6 +86,7 @@ Reach me at: **tharunr2121@gmail.com**
 
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=idea" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=postman" />
 
