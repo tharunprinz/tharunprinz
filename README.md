@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun R</h1>
+<h1 align="center">Hy... I'm Tharun R</h1>
 
 <h3 align="center">Software Engineer • Cyber Security Enthusiast • AI Developer</h3>
 
@@ -113,7 +113,12 @@ YouTube
 
 </p>
 
+## 🚀 Featured Projects
 
+| Project | Description | Demo |
+|----------|-------------|------|
+| 🤖 **GitPen AI** | An AI-powered repository analyzer and architectural assistant. | [Live Demo](https:gitpen-ai.vercel.app) |
+| ⚡ **Snack Box** | Multi-purpose AI assistant built with modern web technologies. | [Live Demo](https://snacks-box.vercel.app/) |
 
 ## GitHub Stats
 
