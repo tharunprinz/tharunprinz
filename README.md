@@ -15,6 +15,10 @@
 
 
 
+<div align="center">
+
+### 🚀 About Me
+
 *Passionate about building impactful software through Full-Stack Development, Cybersecurity, and Artificial Intelligence.*  
 *Currently developing AI-powered applications and security-focused solutions while exploring modern software architectures.*  
 *Learning Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing to build scalable and secure systems.*
@@ -23,13 +27,13 @@
 
 ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
+### 🎯 Areas of Interest
 
-
-- Full-Stack Development
-- Web Application Security
-- Bug Bounty Hunting
-- Artificial Intelligence
-- Cloud Computing
+• Full-Stack Development  
+• Web Application Security  
+• Bug Bounty Hunting  
+• Artificial Intelligence  
+• Cloud Computing
 
 📫 Reach me at: **tharunr2121@gmail.com**
 
@@ -37,52 +41,28 @@
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-
-
-<table>
-<tr>
-<td align="center">
 <a href="https://github.com/tharunprinz" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</td>
-
-<td width="40"></td>
-
-<td align="center">
 <a href="https://linkedin.com/in/tharun021" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</td>
-
-<td width="40"></td>
-
-<td align="center">
 <a href="https://www.instagram.com/thxrun21/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="55" />
 </a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</td>
-
-<td width="40"></td>
-
-<td align="center">
 <a href="https://www.youtube.com/@tharunr21" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="55" />
 </a>
-<br>
 
-</td>
-</tr>
-</table>
-
+</div>
 ---
 
 ## Languages & Tools
