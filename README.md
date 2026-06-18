@@ -27,7 +27,7 @@
 
 ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
- Areas of Interest
+
 
 • Full-Stack Development  
 • Web Application Security  
