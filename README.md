@@ -10,9 +10,8 @@
 
 ---
 
-## 🚀 About Me
 
-🎓 B.Tech Information Technology Student at **Karpagam College of Engineering**
+
 
 💻 Passionate about **Software Engineering, Full-Stack Development, Cybersecurity, and AI**
 
@@ -24,7 +23,7 @@
 
 ☁️ Microsoft Certified **Azure Fundamentals (AZ-900)**
 
-🎯 Interested in:
+
 - Full-Stack Development
 - Web Application Security
 - Bug Bounty Hunting
@@ -39,23 +38,49 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/tharunprinz" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<h3 align="left">🌐 Connect With Me</h3>
 
-<a href="https://linkedin.com/in/tharun021" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/tharunprinz" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
+<br>
+GitHub
+</td>
 
-<a href="https://www.instagram.com/thxrun21/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
+<td width="40"></td>
 
-<a href="https://www.youtube.com/@tharunr21" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" />
+<td align="center">
+<a href="https://linkedin.com/in/tharun021" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
-</p>
+<br>
+LinkedIn
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://www.instagram.com/thxrun21/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+<br>
+Instagram
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://www.youtube.com/@tharunr21" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
+</a>
+<br>
+YouTube
+</td>
+</tr>
+</table>
 
 ---
 
