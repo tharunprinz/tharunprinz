@@ -47,7 +47,7 @@ Microsoft Certified **Azure Fundamentals (AZ-900)**
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 <br>
-GitHub
+
 </td>
 
 <td width="40"></td>
@@ -57,7 +57,7 @@ GitHub
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 <br>
-LinkedIn
+
 </td>
 
 <td width="40"></td>
@@ -67,7 +67,7 @@ LinkedIn
 <img src="https://skillicons.dev/icons?i=instagram" height="50" />
 </a>
 <br>
-Instagram
+
 </td>
 
 <td width="40"></td>
@@ -77,7 +77,7 @@ Instagram
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="50" />
 </a>
 <br>
-YouTube
+
 </td>
 </tr>
 </table>
