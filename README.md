@@ -88,9 +88,7 @@
 
 </p>
 
----
 
----
 
 ## 📊 GitHub Stats
 
@@ -102,17 +100,10 @@
 
 </p>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunprinz&theme=tokyonight" />
-</p>
 
----
-
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunprinz&theme=tokyo-night" />
@@ -133,16 +124,7 @@
   </picture>
 </p>
 
----
-
-## 💡 Quote
-
-> "Building secure software isn't just about writing code—it's about creating trust through technology."
-
----
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharunprinz&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
