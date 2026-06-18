@@ -13,15 +13,15 @@
 
 
 
-💻 Passionate about **Software Engineering, Full-Stack Development, Cybersecurity, and AI**
+Passionate about **Software Engineering, Full-Stack Development, Cybersecurity, and AI**
 
-🔭 Currently building **AI-powered applications and security-focused solutions**
+Currently building **AI-powered applications and security-focused solutions**
 
-🌱 Learning **Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing**
+Learning **Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing**
 
-🏆 Hall of Fame Recognition from **Blackbaud (Bugcrowd)** and **Inflectra**
+Hall of Fame Recognition from **Blackbaud (Bugcrowd)** and **Inflectra**
 
-☁️ Microsoft Certified **Azure Fundamentals (AZ-900)**
+Microsoft Certified **Azure Fundamentals (AZ-900)**
 
 
 - Full-Stack Development
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 
 
@@ -84,7 +84,7 @@ YouTube
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
 
@@ -115,19 +115,19 @@ YouTube
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 GitPen AI
+### GitPen AI
 > An AI-powered repository analyzer and architectural assistant.
 
-🔗 **Demo:** https://gitpen-ai.vercel.app/
+** https://gitpen-ai.vercel.app/
 
 ---
 
-### 🍔 Snack Box
+### Snack Box
 > Smart food ordering platform with billing, QR payments, and admin analytics.
 
-🔗 **Demo:** https://snacks-box.vercel.app/
+ ** https://snacks-box.vercel.app/
 
 ## GitHub Stats
 
