@@ -1,4 +1,4 @@
-<h1 align="center">Hy... I'm Tharun R</h1>
+<h1 align="center">𝗛𝘆.., 𝗜'𝗺 𝗧𝗵𝗮𝗿𝘂𝗻 𝗥</h1>
 
 <h3 align="center">Software Engineer • Cyber Security Enthusiast • AI Developer</h3>
 
