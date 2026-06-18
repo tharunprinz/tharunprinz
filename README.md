@@ -113,17 +113,21 @@ YouTube
 
 </p>
 
+
+
 ## 🚀 Featured Projects
 
-🧠 **GitPen AI**  
-AI-powered repository analyzer & architectural assistant.  
-🌐 https://gitpen-ai.vercel.app/
+### 🤖 GitPen AI
+> An AI-powered repository analyzer and architectural assistant.
 
-<br>
+🔗 **Demo:** https://gitpen-ai.vercel.app/
 
-🍔 **Snack Box**  
-Food ordering platform with QR payments and analytics dashboard.  
-🌐 https://snacks-box.vercel.app/
+---
+
+### 🍔 Snack Box
+> Smart food ordering platform with billing, QR payments, and admin analytics.
+
+🔗 **Demo:** https://snacks-box.vercel.app/
 
 ## GitHub Stats
 
