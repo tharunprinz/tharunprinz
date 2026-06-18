@@ -63,7 +63,7 @@ Reach me at: **tharunr2121@gmail.com**
 </a>
 
 </div>
----
+
 
 ## Languages & Tools
 
