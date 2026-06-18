@@ -43,12 +43,12 @@ Reach me at: **tharunr2121@gmail.com**
 
 ##  Connect With Me
 
-<a href="https://github.com/tharunprinz" target="blank">
+<a href="https://github.com/tharunprinz" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/tharun021" target="blank">
+<a href="https://linkedin.com/in/tharun021" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
