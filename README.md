@@ -17,17 +17,17 @@
 
 <div align="center">
 
-### 🚀 About Me
+
 
 *Passionate about building impactful software through Full-Stack Development, Cybersecurity, and Artificial Intelligence.*  
 *Currently developing AI-powered applications and security-focused solutions while exploring modern software architectures.*  
 *Learning Spring Boot, System Design, Cloud Technologies, and Advanced Security Testing to build scalable and secure systems.*
 
-🏆 Recognized in the Hall of Fame by **Blackbaud (Bugcrowd)** and **Inflectra** for responsible vulnerability disclosure.
+ Recognized in the Hall of Fame by **Blackbaud (Bugcrowd)** and **Inflectra** for responsible vulnerability disclosure.
 
 ☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
 
-### 🎯 Areas of Interest
+ Areas of Interest
 
 • Full-Stack Development  
 • Web Application Security  
@@ -35,13 +35,13 @@
 • Artificial Intelligence  
 • Cloud Computing
 
-📫 Reach me at: **tharunr2121@gmail.com**
+Reach me at: **tharunr2121@gmail.com**
 
-🌐 Portfolio: **https://tharun-portfolio.vercel.app**
+
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://github.com/tharunprinz" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
@@ -96,19 +96,25 @@
 
 
 
+<div align="center">
+
 ## Featured Projects
 
-### GitPen AI
-> An AI-powered repository analyzer and architectural assistant.
+###  GitPen AI
+
+*An AI-powered repository analyzer and architectural assistant.*
 
  https://gitpen-ai.vercel.app/
 
 ---
 
-### Snack Box
-> Smart food ordering platform with billing, QR payments, and admin analytics.
+###  Snack Box
+
+*Smart food ordering platform with billing, QR payments, and admin analytics.*
 
  https://snacks-box.vercel.app/
+
+</div>
 
 ## GitHub Stats
 
