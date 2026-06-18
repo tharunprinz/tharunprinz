@@ -38,7 +38,7 @@
 
 ## 🌐 Connect With Me
 
-<h3 align="left">🌐 Connect With Me</h3>
+
 
 <table>
 <tr>
