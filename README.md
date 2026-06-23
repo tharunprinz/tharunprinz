@@ -101,6 +101,14 @@ Reach me at: **tharunr2121@gmail.com**
 
 ## Featured Projects
 
+###  Devfolio AI
+
+*An AI-powered developer portfolio and resume generator, driven by your GitHub profile.*
+
+ https://dev-portfolio-ai-rho.vercel.app
+
+---
+
 ###  GitPen AI
 
 *An AI-powered repository analyzer and architectural assistant.*
