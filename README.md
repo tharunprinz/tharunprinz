@@ -65,35 +65,7 @@ Reach me at: **tharunr2121@gmail.com**
 </div>
 
 
-## Languages & Tools
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=spring" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=idea" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=postman" />
-
-<img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=linux" />
-
-</p>
 
 
 
@@ -149,6 +121,35 @@ Reach me at: **tharunr2121@gmail.com**
     <img alt="github contribution grid snake animation"
       src="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</p>
+## Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=spring" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=idea" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=linux" />
+
 </p>
 
 
