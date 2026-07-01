@@ -70,7 +70,7 @@ Reach me at: **tharunr2121@gmail.com**
 
 
 <div align="center">
-
+---
 ## Featured Projects
 
 ###  Devfolio AI
@@ -101,13 +101,13 @@ Reach me at: **tharunr2121@gmail.com**
 
 
 
-
+/*
 ## Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharunprinz&theme=tokyo-night" />
 </p>
-
+*/
 ---
 
 
