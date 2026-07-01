@@ -122,6 +122,8 @@ Reach me at: **tharunr2121@gmail.com**
       src="https://raw.githubusercontent.com/tharunprinz/tharunprinz/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
+
+
 ## Languages & Tools
 
 <p align="left">
