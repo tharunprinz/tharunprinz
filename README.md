@@ -70,7 +70,9 @@ Reach me at: **tharunr2121@gmail.com**
 
 
 <div align="center">
+  
 ---
+  
 ## Featured Projects
 
 ###  Devfolio AI
