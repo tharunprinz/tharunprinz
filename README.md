@@ -25,7 +25,7 @@
 
  Recognized in the Hall of Fame by **Blackbaud (Bugcrowd)** and **Inflectra** for responsible vulnerability disclosure.
 
-☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
+☁️ Microsoft Certified: **Azure (AZ-900)**
 
 
 
